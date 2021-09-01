@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\bin\Debug\VideoLibraryDataLayer.pdb
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\obj\Debug\VideoLibraryDataLayer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\obj\Debug\VideoLibraryDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\obj\Debug\VideoLibraryDataLayer.pdb
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\bin\Debug\VideoLibraryDataLayer.exe
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\obj\Debug\VideoLibraryDataLayer.exe
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\obj\Debug\UCSD.VideoLibrary.rent_movies.resources
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\obj\Debug\UCSD.VideoLibrary.review.resources
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\obj\Debug\UCSD.VideoLibrary.search.resources
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\obj\Debug\VideoLibraryDataLayer.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\job\VideoLibraryDataLayer\VideoLibraryDataLayer\obj\Debug\UCSD.VideoLibrary.video_details.resources
